@@ -1,7 +1,8 @@
 # ironwood-adv
 
 Reconstrução pixel-fidelity, em HTML5/CSS3/JS puro, do advertorial de referência
-(`aurivita_co_pages_adv4.pdf`), adaptado com a paleta bordô/dourado da marca IronWood.
+(PDF + página ao vivo `aurivita.co/pages/adv4`), adaptado com a paleta bordô/amarelo
+da marca IronWood. Toda menção à marca original foi substituída por "IronWood".
 
 ## Como executar
 
